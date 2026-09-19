@@ -1,0 +1,2925 @@
+{
+  "schemaVersion": 1,
+  "revision": 3,
+  "updated": "2026-09-19",
+  "devices": [
+    {
+      "id": "iPhone3,1",
+      "name": "iPhone 4",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone3,2",
+      "name": "iPhone 4",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone3,3",
+      "name": "iPhone 4",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone4,1",
+      "name": "iPhone 4s",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone5,1",
+      "name": "iPhone 5",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone5,2",
+      "name": "iPhone 5",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone5,3",
+      "name": "iPhone 5c",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone5,4",
+      "name": "iPhone 5c",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone6,1",
+      "name": "iPhone 5s",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone6,2",
+      "name": "iPhone 5s",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone8,4",
+      "name": "iPhone SE",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "button": {
+        "edge": "top",
+        "offset": 32,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone12,8",
+      "name": "iPhone SE (2nd generation)",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 53,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone14,6",
+      "name": "iPhone SE (3rd generation)",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 53,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone7,2",
+      "name": "iPhone 6",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone7,1",
+      "name": "iPhone 6 Plus",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone8,1",
+      "name": "iPhone 6s",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone8,2",
+      "name": "iPhone 6s Plus",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone9,1",
+      "name": "iPhone 7",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone9,3",
+      "name": "iPhone 7",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone9,2",
+      "name": "iPhone 7 Plus",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone9,4",
+      "name": "iPhone 7 Plus",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone10,1",
+      "name": "iPhone 8",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone10,4",
+      "name": "iPhone 8",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone10,2",
+      "name": "iPhone 8 Plus",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone10,5",
+      "name": "iPhone 8 Plus",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "button": {
+        "edge": "right",
+        "offset": 75,
+        "length": 70
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPhone10,3",
+      "name": "iPhone X",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 30,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 27.5,
+            "top": 0
+          }
+        }
+      ],
+      "button": {
+        "edge": "right",
+        "offset": 152,
+        "length": 124
+      }
+    },
+    {
+      "id": "iPhone10,6",
+      "name": "iPhone X",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 30,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 27.5,
+            "top": 0
+          }
+        }
+      ],
+      "button": {
+        "edge": "right",
+        "offset": 152,
+        "length": 124
+      }
+    },
+    {
+      "id": "iPhone11,2",
+      "name": "iPhone XS",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 30,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 27.5,
+            "top": 0
+          }
+        }
+      ],
+      "button": {
+        "edge": "right",
+        "offset": 152,
+        "length": 124
+      }
+    },
+    {
+      "id": "iPhone11,4",
+      "name": "iPhone XS Max",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 30,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 27.5,
+            "top": 0
+          }
+        }
+      ],
+      "button": {
+        "edge": "right",
+        "offset": 222,
+        "length": 124
+      }
+    },
+    {
+      "id": "iPhone11,6",
+      "name": "iPhone XS Max",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 30,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 27.5,
+            "top": 0
+          }
+        }
+      ],
+      "button": {
+        "edge": "right",
+        "offset": 222,
+        "length": 124
+      }
+    },
+    {
+      "id": "iPhone11,8",
+      "name": "iPhone XR",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 33,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 30,
+            "top": 0
+          }
+        }
+      ],
+      "button": {
+        "edge": "right",
+        "offset": 152,
+        "length": 124
+      }
+    },
+    {
+      "id": "iPhone12,1",
+      "name": "iPhone 11",
+      "kind": "phone",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 33,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 30,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone12,3",
+      "name": "iPhone 11 Pro",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 33,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 30,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone12,5",
+      "name": "iPhone 11 Pro Max",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone13,1",
+      "name": "iPhone 12 mini",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 34,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 29.5,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone13,2",
+      "name": "iPhone 12",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 32,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 26.5,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone13,3",
+      "name": "iPhone 12 Pro",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 32,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 26.5,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone13,4",
+      "name": "iPhone 12 Pro Max",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 32,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 209,
+            "height": 28,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone14,4",
+      "name": "iPhone 13 mini",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 37.5,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 32,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone14,5",
+      "name": "iPhone 13",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 34,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 28,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone14,2",
+      "name": "iPhone 13 Pro",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 34,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 28,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone14,3",
+      "name": "iPhone 13 Pro Max",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 34,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 29.5,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone14,7",
+      "name": "iPhone 14",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 34,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 28,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone14,8",
+      "name": "iPhone 14 Plus",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 34,
+            "top": 0
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "notch",
+          "geometry": {
+            "width": 161,
+            "height": 29.5,
+            "top": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone17,5",
+      "name": "iPhone 16e",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 161
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone18,5",
+      "name": "iPhone 17e",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "notch",
+          "geometry": {
+            "width": 161
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone15,2",
+      "name": "iPhone 14 Pro",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone15,3",
+      "name": "iPhone 14 Pro Max",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone15,4",
+      "name": "iPhone 15",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone15,5",
+      "name": "iPhone 15 Plus",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone16,1",
+      "name": "iPhone 15 Pro",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone16,2",
+      "name": "iPhone 15 Pro Max",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone17,3",
+      "name": "iPhone 16",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone17,4",
+      "name": "iPhone 16 Plus",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone17,1",
+      "name": "iPhone 16 Pro",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone17,2",
+      "name": "iPhone 16 Pro Max",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone18,3",
+      "name": "iPhone 17",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone18,1",
+      "name": "iPhone 17 Pro",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone18,2",
+      "name": "iPhone 17 Pro Max",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 11
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 102.5,
+            "height": 30,
+            "top": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPhone18,4",
+      "name": "iPhone Air",
+      "kind": "phone",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "left",
+        "lockButton": "right"
+      },
+      "displays": [
+        {
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 125.5,
+            "height": 37.33,
+            "top": 20
+          }
+        },
+        {
+          "zoomed": true,
+          "cutout": "dynamicIsland",
+          "geometry": {
+            "width": 112,
+            "height": 33,
+            "top": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "iPad2,1",
+      "name": "iPad 2",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad2,2",
+      "name": "iPad 2",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad2,3",
+      "name": "iPad 2",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad2,4",
+      "name": "iPad 2",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad3,1",
+      "name": "iPad (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad3,2",
+      "name": "iPad (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad3,3",
+      "name": "iPad (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad3,4",
+      "name": "iPad (4th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad3,5",
+      "name": "iPad (4th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad3,6",
+      "name": "iPad (4th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad4,1",
+      "name": "iPad Air",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad4,2",
+      "name": "iPad Air",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad4,3",
+      "name": "iPad Air",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad5,3",
+      "name": "iPad Air 2",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad5,4",
+      "name": "iPad Air 2",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad6,11",
+      "name": "iPad (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad6,12",
+      "name": "iPad (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad7,5",
+      "name": "iPad (6th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad7,6",
+      "name": "iPad (6th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad11,3",
+      "name": "iPad Air (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad11,4",
+      "name": "iPad Air (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad7,11",
+      "name": "iPad (7th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad7,12",
+      "name": "iPad (7th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad11,6",
+      "name": "iPad (8th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad11,7",
+      "name": "iPad (8th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad12,1",
+      "name": "iPad (9th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad12,2",
+      "name": "iPad (9th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,1",
+      "name": "iPad Air (4th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,2",
+      "name": "iPad Air (4th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad2,5",
+      "name": "iPad mini",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad2,6",
+      "name": "iPad mini",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad2,7",
+      "name": "iPad mini",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad4,4",
+      "name": "iPad mini 2",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad4,5",
+      "name": "iPad mini 2",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad4,6",
+      "name": "iPad mini 2",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad4,7",
+      "name": "iPad mini 3",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad4,8",
+      "name": "iPad mini 3",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad4,9",
+      "name": "iPad mini 3",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad5,1",
+      "name": "iPad mini 4",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad5,2",
+      "name": "iPad mini 4",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad11,1",
+      "name": "iPad mini (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad11,2",
+      "name": "iPad mini (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,1",
+      "name": "iPad mini (6th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "top",
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,2",
+      "name": "iPad mini (6th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "top",
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,1",
+      "name": "iPad mini (A17 Pro)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "top",
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,2",
+      "name": "iPad mini (A17 Pro)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "volumeButtons": "top",
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad6,3",
+      "name": "iPad Pro (9.7-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad6,4",
+      "name": "iPad Pro (9.7-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad6,7",
+      "name": "iPad Pro (12.9-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad6,8",
+      "name": "iPad Pro (12.9-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad7,1",
+      "name": "iPad Pro (12.9-inch) (2nd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad7,2",
+      "name": "iPad Pro (12.9-inch) (2nd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad7,3",
+      "name": "iPad Pro (10.5-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad7,4",
+      "name": "iPad Pro (10.5-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,1",
+      "name": "iPad Pro (11-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,2",
+      "name": "iPad Pro (11-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,3",
+      "name": "iPad Pro (11-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,4",
+      "name": "iPad Pro (11-inch)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,5",
+      "name": "iPad Pro (12.9-inch) (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,6",
+      "name": "iPad Pro (12.9-inch) (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,7",
+      "name": "iPad Pro (12.9-inch) (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,8",
+      "name": "iPad Pro (12.9-inch) (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,9",
+      "name": "iPad Pro (11-inch) (2nd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,10",
+      "name": "iPad Pro (11-inch) (2nd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,11",
+      "name": "iPad Pro (12.9-inch) (4th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad8,12",
+      "name": "iPad Pro (12.9-inch) (4th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,4",
+      "name": "iPad Pro (11-inch) (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,5",
+      "name": "iPad Pro (11-inch) (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,6",
+      "name": "iPad Pro (11-inch) (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,7",
+      "name": "iPad Pro (11-inch) (3rd generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,8",
+      "name": "iPad Pro (12.9-inch) (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,9",
+      "name": "iPad Pro (12.9-inch) (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,10",
+      "name": "iPad Pro (12.9-inch) (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,11",
+      "name": "iPad Pro (12.9-inch) (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,3",
+      "name": "iPad Pro 11-inch (4th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,4",
+      "name": "iPad Pro 11-inch (4th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,5",
+      "name": "iPad Pro 12.9-inch (6th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,6",
+      "name": "iPad Pro 12.9-inch (6th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPod5,1",
+      "name": "iPod touch (5th generation)",
+      "kind": "pod",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPod7,1",
+      "name": "iPod touch (6th generation)",
+      "kind": "pod",
+      "traits": {
+        "oled": false,
+        "headphoneJack": true,
+        "roundedDisplayCorners": false,
+        "volumeButtons": "left",
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    }
+  ]
+}
