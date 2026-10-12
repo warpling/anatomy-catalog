@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 6,
-  "updated": "2026-09-22",
+  "revision": 7,
+  "updated": "2026-09-28",
   "devices": [
     {
       "id": "iPhone3,1",
@@ -17,7 +17,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -39,7 +40,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -61,7 +63,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -83,7 +86,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -105,7 +109,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -127,7 +132,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -149,7 +155,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -171,7 +178,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -193,7 +201,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -215,7 +224,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -237,7 +247,8 @@
       "button": {
         "edge": "top",
         "offset": 32,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -259,7 +270,8 @@
       "button": {
         "edge": "right",
         "offset": 53,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -281,7 +293,8 @@
       "button": {
         "edge": "right",
         "offset": 53,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -303,7 +316,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -325,7 +339,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -347,7 +362,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -369,7 +385,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -391,7 +408,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -413,7 +431,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -435,7 +454,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -457,7 +477,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -479,7 +500,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -501,7 +523,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -523,7 +546,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -545,7 +569,8 @@
       "button": {
         "edge": "right",
         "offset": 75,
-        "length": 70
+        "length": 70,
+        "source": "table"
       },
       "displays": [
         {
@@ -594,7 +619,8 @@
       "button": {
         "edge": "right",
         "offset": 152,
-        "length": 124
+        "length": 124,
+        "source": "table"
       }
     },
     {
@@ -638,7 +664,8 @@
       "button": {
         "edge": "right",
         "offset": 152,
-        "length": 124
+        "length": 124,
+        "source": "table"
       }
     },
     {
@@ -682,7 +709,8 @@
       "button": {
         "edge": "right",
         "offset": 152,
-        "length": 124
+        "length": 124,
+        "source": "table"
       }
     },
     {
@@ -726,7 +754,8 @@
       "button": {
         "edge": "right",
         "offset": 222,
-        "length": 124
+        "length": 124,
+        "source": "table"
       }
     },
     {
@@ -770,7 +799,8 @@
       "button": {
         "edge": "right",
         "offset": 222,
-        "length": 124
+        "length": 124,
+        "source": "table"
       }
     },
     {
@@ -814,7 +844,8 @@
       "button": {
         "edge": "right",
         "offset": 152,
-        "length": 124
+        "length": 124,
+        "source": "table"
       }
     },
     {
@@ -1623,7 +1654,46 @@
             }
           }
         }
-      ]
+      ],
+      "button": {
+        "edge": "right",
+        "offset": 269.06,
+        "length": 106.84,
+        "source": "device"
+      },
+      "parts": {
+        "lockButton": {
+          "edge": "right",
+          "offset": 0.3158,
+          "length": 0.1254,
+          "unit": "fraction",
+          "source": "device"
+        },
+        "volumeUp": {
+          "edge": "left",
+          "offset": 0.2612,
+          "length": 0.0794,
+          "unit": "fraction",
+          "source": "device"
+        },
+        "volumeDown": {
+          "edge": "left",
+          "offset": 0.3619,
+          "length": 0.0794,
+          "unit": "fraction",
+          "source": "device"
+        },
+        "action": {
+          "edge": "left",
+          "offset": 0.1834,
+          "length": 0.0429,
+          "unit": "fraction",
+          "source": "device"
+        },
+        "absent": {
+          "cameraControl": "device"
+        }
+      }
     },
     {
       "id": "iPhone16,2",
@@ -2106,7 +2176,6 @@
       "id": "iPhone19,2",
       "name": "iPhone 18 Pro",
       "kind": "phone",
-      "released": false,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2138,14 +2207,14 @@
       "button": {
         "edge": "right",
         "offset": 245,
-        "length": 101
+        "length": 101,
+        "source": "artwork"
       }
     },
     {
       "id": "iPhone19,3",
       "name": "iPhone 18 Pro Max",
       "kind": "phone",
-      "released": false,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2177,14 +2246,14 @@
       "button": {
         "edge": "right",
         "offset": 276.5,
-        "length": 101
+        "length": 101,
+        "source": "artwork"
       }
     },
     {
       "id": "iPhone19,7",
       "name": "iPhone 18 Pro Max",
       "kind": "phone",
-      "released": false,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2216,7 +2285,8 @@
       "button": {
         "edge": "right",
         "offset": 276.5,
-        "length": 101
+        "length": 101,
+        "source": "artwork"
       }
     },
     {
@@ -2249,8 +2319,32 @@
           },
           "button": {
             "edge": "right",
-            "offset": 188,
-            "length": 113
+            "offset": 184.5,
+            "length": 109.4,
+            "source": "hand"
+          },
+          "parts": {
+            "volumeDown": {
+              "edge": "top",
+              "offset": 207.2,
+              "length": 66.6,
+              "source": "hand"
+            },
+            "volumeUp": {
+              "edge": "top",
+              "offset": 286,
+              "length": 66.6,
+              "source": "hand"
+            },
+            "cameraControl": {
+              "edge": "right",
+              "offset": 444.45,
+              "length": 100.6,
+              "source": "hand"
+            },
+            "absent": {
+              "action": "hand"
+            }
           }
         },
         {
@@ -2262,8 +2356,38 @@
           "cutout": "dynamicIsland",
           "button": {
             "edge": "top",
-            "offset": 181.3,
-            "length": 114.35
+            "offset": 182,
+            "length": 109.4,
+            "source": "hand"
+          },
+          "parts": {
+            "volumeUp": {
+              "edge": "left",
+              "offset": 105.4,
+              "length": 66.6,
+              "source": "hand"
+            },
+            "volumeDown": {
+              "edge": "left",
+              "offset": 184.3,
+              "length": 66.6,
+              "source": "hand"
+            },
+            "port": {
+              "edge": "right",
+              "offset": 207.75,
+              "length": 60,
+              "source": "hand"
+            },
+            "cameraControl": {
+              "edge": "top",
+              "offset": 441.6,
+              "length": 100.6,
+              "source": "hand"
+            },
+            "absent": {
+              "action": "hand"
+            }
           },
           "geometry": {
             "compact": {
@@ -2274,13 +2398,21 @@
                 "left": 151.45
               }
             }
+          },
+          "housing": {
+            "x": 23.2,
+            "y": 254.2,
+            "width": 38,
+            "height": 38,
+            "source": "hand"
           }
         }
       ],
       "button": {
         "edge": "right",
-        "offset": 188,
-        "length": 113
+        "offset": 184.5,
+        "length": 109.4,
+        "source": "hand"
       }
     },
     {
@@ -2738,6 +2870,294 @@
       "traits": {
         "oled": false,
         "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,16",
+      "name": "iPad Air (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,17",
+      "name": "iPad Air (5th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,18",
+      "name": "iPad (10th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad13,19",
+      "name": "iPad (10th generation)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,8",
+      "name": "iPad Air 11-inch (M2)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,9",
+      "name": "iPad Air 11-inch (M2)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,10",
+      "name": "iPad Air 13-inch (M2)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad14,11",
+      "name": "iPad Air 13-inch (M2)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad15,3",
+      "name": "iPad Air 11-inch (M3)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad15,4",
+      "name": "iPad Air 11-inch (M3)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad15,5",
+      "name": "iPad Air 13-inch (M3)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad15,6",
+      "name": "iPad Air 13-inch (M3)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad15,7",
+      "name": "iPad (A16)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad15,8",
+      "name": "iPad (A16)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,8",
+      "name": "iPad Air 11-inch (M4)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,9",
+      "name": "iPad Air 11-inch (M4)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,10",
+      "name": "iPad Air 13-inch (M4)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,11",
+      "name": "iPad Air 13-inch (M4)",
+      "kind": "pad",
+      "traits": {
+        "oled": false,
+        "headphoneJack": false,
         "roundedDisplayCorners": true,
         "lockButton": "top"
       },
@@ -3526,6 +3946,134 @@
       "traits": {
         "oled": false,
         "headphoneJack": true,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,3",
+      "name": "iPad Pro 11-inch (M4)",
+      "kind": "pad",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,4",
+      "name": "iPad Pro 11-inch (M4)",
+      "kind": "pad",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,5",
+      "name": "iPad Pro 13-inch (M4)",
+      "kind": "pad",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad16,6",
+      "name": "iPad Pro 13-inch (M4)",
+      "kind": "pad",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad17,1",
+      "name": "iPad Pro 11-inch (M5)",
+      "kind": "pad",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad17,2",
+      "name": "iPad Pro 11-inch (M5)",
+      "kind": "pad",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad17,3",
+      "name": "iPad Pro 13-inch (M5)",
+      "kind": "pad",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
+        "roundedDisplayCorners": true,
+        "lockButton": "top"
+      },
+      "displays": [
+        {
+          "cutout": "none"
+        }
+      ]
+    },
+    {
+      "id": "iPad17,4",
+      "name": "iPad Pro 13-inch (M5)",
+      "kind": "pad",
+      "traits": {
+        "oled": true,
+        "headphoneJack": false,
         "roundedDisplayCorners": true,
         "lockButton": "top"
       },
