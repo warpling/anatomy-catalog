@@ -1,12 +1,13 @@
 {
   "schemaVersion": 2,
-  "revision": 7,
-  "updated": "2026-09-28",
+  "revision": 8000,
+  "updated": "2026-10-15",
   "devices": [
     {
       "id": "iPhone3,1",
       "name": "iPhone 4",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -30,6 +31,7 @@
       "id": "iPhone3,2",
       "name": "iPhone 4",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -53,6 +55,7 @@
       "id": "iPhone3,3",
       "name": "iPhone 4",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -76,6 +79,7 @@
       "id": "iPhone4,1",
       "name": "iPhone 4s",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -99,6 +103,7 @@
       "id": "iPhone5,1",
       "name": "iPhone 5",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -122,6 +127,7 @@
       "id": "iPhone5,2",
       "name": "iPhone 5",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -145,6 +151,7 @@
       "id": "iPhone5,3",
       "name": "iPhone 5c",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -168,6 +175,7 @@
       "id": "iPhone5,4",
       "name": "iPhone 5c",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -191,6 +199,7 @@
       "id": "iPhone6,1",
       "name": "iPhone 5s",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -214,6 +223,7 @@
       "id": "iPhone6,2",
       "name": "iPhone 5s",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -237,6 +247,7 @@
       "id": "iPhone8,4",
       "name": "iPhone SE",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -260,6 +271,7 @@
       "id": "iPhone12,8",
       "name": "iPhone SE (2nd generation)",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -283,6 +295,7 @@
       "id": "iPhone14,6",
       "name": "iPhone SE (3rd generation)",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -306,6 +319,7 @@
       "id": "iPhone7,2",
       "name": "iPhone 6",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -329,6 +343,7 @@
       "id": "iPhone7,1",
       "name": "iPhone 6 Plus",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -352,6 +367,7 @@
       "id": "iPhone8,1",
       "name": "iPhone 6s",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -375,6 +391,7 @@
       "id": "iPhone8,2",
       "name": "iPhone 6s Plus",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -398,6 +415,7 @@
       "id": "iPhone9,1",
       "name": "iPhone 7",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -421,6 +439,7 @@
       "id": "iPhone9,3",
       "name": "iPhone 7",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -444,6 +463,7 @@
       "id": "iPhone9,2",
       "name": "iPhone 7 Plus",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -467,6 +487,7 @@
       "id": "iPhone9,4",
       "name": "iPhone 7 Plus",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -490,6 +511,7 @@
       "id": "iPhone10,1",
       "name": "iPhone 8",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -513,6 +535,7 @@
       "id": "iPhone10,4",
       "name": "iPhone 8",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -536,6 +559,7 @@
       "id": "iPhone10,2",
       "name": "iPhone 8 Plus",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -559,6 +583,7 @@
       "id": "iPhone10,5",
       "name": "iPhone 8 Plus",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -582,6 +607,7 @@
       "id": "iPhone10,3",
       "name": "iPhone X",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -627,6 +653,7 @@
       "id": "iPhone10,6",
       "name": "iPhone X",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -672,6 +699,7 @@
       "id": "iPhone11,2",
       "name": "iPhone XS",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -717,6 +745,7 @@
       "id": "iPhone11,4",
       "name": "iPhone XS Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -762,6 +791,7 @@
       "id": "iPhone11,6",
       "name": "iPhone XS Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -807,6 +837,7 @@
       "id": "iPhone11,8",
       "name": "iPhone XR",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -852,6 +883,7 @@
       "id": "iPhone12,1",
       "name": "iPhone 11",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -891,6 +923,7 @@
       "id": "iPhone12,3",
       "name": "iPhone 11 Pro",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -930,6 +963,7 @@
       "id": "iPhone12,5",
       "name": "iPhone 11 Pro Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -955,6 +989,7 @@
       "id": "iPhone13,1",
       "name": "iPhone 12 mini",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -994,6 +1029,7 @@
       "id": "iPhone13,2",
       "name": "iPhone 12",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1033,6 +1069,7 @@
       "id": "iPhone13,3",
       "name": "iPhone 12 Pro",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1072,6 +1109,7 @@
       "id": "iPhone13,4",
       "name": "iPhone 12 Pro Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1111,6 +1149,7 @@
       "id": "iPhone14,4",
       "name": "iPhone 13 mini",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1150,6 +1189,7 @@
       "id": "iPhone14,5",
       "name": "iPhone 13",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1189,6 +1229,7 @@
       "id": "iPhone14,2",
       "name": "iPhone 13 Pro",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1228,6 +1269,7 @@
       "id": "iPhone14,3",
       "name": "iPhone 13 Pro Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1267,6 +1309,7 @@
       "id": "iPhone14,7",
       "name": "iPhone 14",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1306,6 +1349,7 @@
       "id": "iPhone14,8",
       "name": "iPhone 14 Plus",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1345,6 +1389,7 @@
       "id": "iPhone17,5",
       "name": "iPhone 16e",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1370,6 +1415,7 @@
       "id": "iPhone18,5",
       "name": "iPhone 17e",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1395,6 +1441,7 @@
       "id": "iPhone15,2",
       "name": "iPhone 14 Pro",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1448,6 +1495,7 @@
       "id": "iPhone15,3",
       "name": "iPhone 14 Pro Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1501,6 +1549,7 @@
       "id": "iPhone15,4",
       "name": "iPhone 15",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1554,6 +1603,7 @@
       "id": "iPhone15,5",
       "name": "iPhone 15 Plus",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1607,6 +1657,7 @@
       "id": "iPhone16,1",
       "name": "iPhone 15 Pro",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1699,6 +1750,7 @@
       "id": "iPhone16,2",
       "name": "iPhone 15 Pro Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1752,6 +1804,7 @@
       "id": "iPhone17,3",
       "name": "iPhone 16",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1805,6 +1858,7 @@
       "id": "iPhone17,4",
       "name": "iPhone 16 Plus",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1858,6 +1912,7 @@
       "id": "iPhone17,1",
       "name": "iPhone 16 Pro",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1911,6 +1966,7 @@
       "id": "iPhone17,2",
       "name": "iPhone 16 Pro Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -1964,6 +2020,7 @@
       "id": "iPhone18,3",
       "name": "iPhone 17",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2017,6 +2074,7 @@
       "id": "iPhone18,1",
       "name": "iPhone 17 Pro",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2070,6 +2128,7 @@
       "id": "iPhone18,2",
       "name": "iPhone 17 Pro Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2123,6 +2182,7 @@
       "id": "iPhone18,4",
       "name": "iPhone Air",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2176,6 +2236,7 @@
       "id": "iPhone19,2",
       "name": "iPhone 18 Pro",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2215,6 +2276,7 @@
       "id": "iPhone19,3",
       "name": "iPhone 18 Pro Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2254,6 +2316,7 @@
       "id": "iPhone19,7",
       "name": "iPhone 18 Pro Max",
       "kind": "phone",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2294,6 +2357,7 @@
       "name": "iPhone Duo",
       "kind": "phone",
       "released": false,
+      "releaseDate": "2026-10-23",
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -2419,6 +2483,7 @@
       "id": "iPad2,1",
       "name": "iPad 2",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2435,6 +2500,7 @@
       "id": "iPad2,2",
       "name": "iPad 2",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2451,6 +2517,7 @@
       "id": "iPad2,3",
       "name": "iPad 2",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2467,6 +2534,7 @@
       "id": "iPad2,4",
       "name": "iPad 2",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2483,6 +2551,7 @@
       "id": "iPad3,1",
       "name": "iPad (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2499,6 +2568,7 @@
       "id": "iPad3,2",
       "name": "iPad (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2515,6 +2585,7 @@
       "id": "iPad3,3",
       "name": "iPad (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2531,6 +2602,7 @@
       "id": "iPad3,4",
       "name": "iPad (4th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2547,6 +2619,7 @@
       "id": "iPad3,5",
       "name": "iPad (4th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2563,6 +2636,7 @@
       "id": "iPad3,6",
       "name": "iPad (4th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2579,6 +2653,7 @@
       "id": "iPad4,1",
       "name": "iPad Air",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2595,6 +2670,7 @@
       "id": "iPad4,2",
       "name": "iPad Air",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2611,6 +2687,7 @@
       "id": "iPad4,3",
       "name": "iPad Air",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2627,6 +2704,7 @@
       "id": "iPad5,3",
       "name": "iPad Air 2",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2643,6 +2721,7 @@
       "id": "iPad5,4",
       "name": "iPad Air 2",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2659,6 +2738,7 @@
       "id": "iPad6,11",
       "name": "iPad (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2675,6 +2755,7 @@
       "id": "iPad6,12",
       "name": "iPad (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2691,6 +2772,7 @@
       "id": "iPad7,5",
       "name": "iPad (6th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2707,6 +2789,7 @@
       "id": "iPad7,6",
       "name": "iPad (6th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2723,6 +2806,7 @@
       "id": "iPad11,3",
       "name": "iPad Air (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2739,6 +2823,7 @@
       "id": "iPad11,4",
       "name": "iPad Air (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2755,6 +2840,7 @@
       "id": "iPad7,11",
       "name": "iPad (7th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2771,6 +2857,7 @@
       "id": "iPad7,12",
       "name": "iPad (7th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2787,6 +2874,7 @@
       "id": "iPad11,6",
       "name": "iPad (8th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2803,6 +2891,7 @@
       "id": "iPad11,7",
       "name": "iPad (8th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2819,6 +2908,7 @@
       "id": "iPad12,1",
       "name": "iPad (9th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2835,6 +2925,7 @@
       "id": "iPad12,2",
       "name": "iPad (9th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2851,6 +2942,7 @@
       "id": "iPad13,1",
       "name": "iPad Air (4th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2867,6 +2959,7 @@
       "id": "iPad13,2",
       "name": "iPad Air (4th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -2883,6 +2976,7 @@
       "id": "iPad13,16",
       "name": "iPad Air (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -2899,6 +2993,7 @@
       "id": "iPad13,17",
       "name": "iPad Air (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -2915,6 +3010,7 @@
       "id": "iPad13,18",
       "name": "iPad (10th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -2931,6 +3027,7 @@
       "id": "iPad13,19",
       "name": "iPad (10th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -2947,6 +3044,7 @@
       "id": "iPad14,8",
       "name": "iPad Air 11-inch (M2)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -2963,6 +3061,7 @@
       "id": "iPad14,9",
       "name": "iPad Air 11-inch (M2)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -2979,6 +3078,7 @@
       "id": "iPad14,10",
       "name": "iPad Air 13-inch (M2)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -2995,6 +3095,7 @@
       "id": "iPad14,11",
       "name": "iPad Air 13-inch (M2)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3011,6 +3112,7 @@
       "id": "iPad15,3",
       "name": "iPad Air 11-inch (M3)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3027,6 +3129,7 @@
       "id": "iPad15,4",
       "name": "iPad Air 11-inch (M3)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3043,6 +3146,7 @@
       "id": "iPad15,5",
       "name": "iPad Air 13-inch (M3)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3059,6 +3163,7 @@
       "id": "iPad15,6",
       "name": "iPad Air 13-inch (M3)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3075,6 +3180,7 @@
       "id": "iPad15,7",
       "name": "iPad (A16)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3091,6 +3197,7 @@
       "id": "iPad15,8",
       "name": "iPad (A16)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3107,6 +3214,7 @@
       "id": "iPad16,8",
       "name": "iPad Air 11-inch (M4)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3123,6 +3231,7 @@
       "id": "iPad16,9",
       "name": "iPad Air 11-inch (M4)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3139,6 +3248,7 @@
       "id": "iPad16,10",
       "name": "iPad Air 13-inch (M4)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3155,6 +3265,7 @@
       "id": "iPad16,11",
       "name": "iPad Air 13-inch (M4)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3171,6 +3282,7 @@
       "id": "iPad2,5",
       "name": "iPad mini",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3187,6 +3299,7 @@
       "id": "iPad2,6",
       "name": "iPad mini",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3203,6 +3316,7 @@
       "id": "iPad2,7",
       "name": "iPad mini",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3219,6 +3333,7 @@
       "id": "iPad4,4",
       "name": "iPad mini 2",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3235,6 +3350,7 @@
       "id": "iPad4,5",
       "name": "iPad mini 2",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3251,6 +3367,7 @@
       "id": "iPad4,6",
       "name": "iPad mini 2",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3267,6 +3384,7 @@
       "id": "iPad4,7",
       "name": "iPad mini 3",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3283,6 +3401,7 @@
       "id": "iPad4,8",
       "name": "iPad mini 3",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3299,6 +3418,7 @@
       "id": "iPad4,9",
       "name": "iPad mini 3",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3315,6 +3435,7 @@
       "id": "iPad5,1",
       "name": "iPad mini 4",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3331,6 +3452,7 @@
       "id": "iPad5,2",
       "name": "iPad mini 4",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3347,6 +3469,7 @@
       "id": "iPad11,1",
       "name": "iPad mini (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3363,6 +3486,7 @@
       "id": "iPad11,2",
       "name": "iPad mini (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3379,6 +3503,7 @@
       "id": "iPad14,1",
       "name": "iPad mini (6th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3396,6 +3521,7 @@
       "id": "iPad14,2",
       "name": "iPad mini (6th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3413,6 +3539,7 @@
       "id": "iPad16,1",
       "name": "iPad mini (A17 Pro)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3430,6 +3557,7 @@
       "id": "iPad16,2",
       "name": "iPad mini (A17 Pro)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": false,
@@ -3447,6 +3575,7 @@
       "id": "iPad6,3",
       "name": "iPad Pro (9.7-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3463,6 +3592,7 @@
       "id": "iPad6,4",
       "name": "iPad Pro (9.7-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3479,6 +3609,7 @@
       "id": "iPad6,7",
       "name": "iPad Pro (12.9-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3495,6 +3626,7 @@
       "id": "iPad6,8",
       "name": "iPad Pro (12.9-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3511,6 +3643,7 @@
       "id": "iPad7,1",
       "name": "iPad Pro (12.9-inch) (2nd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3527,6 +3660,7 @@
       "id": "iPad7,2",
       "name": "iPad Pro (12.9-inch) (2nd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3543,6 +3677,7 @@
       "id": "iPad7,3",
       "name": "iPad Pro (10.5-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3559,6 +3694,7 @@
       "id": "iPad7,4",
       "name": "iPad Pro (10.5-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3575,6 +3711,7 @@
       "id": "iPad8,1",
       "name": "iPad Pro (11-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3591,6 +3728,7 @@
       "id": "iPad8,2",
       "name": "iPad Pro (11-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3607,6 +3745,7 @@
       "id": "iPad8,3",
       "name": "iPad Pro (11-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3623,6 +3762,7 @@
       "id": "iPad8,4",
       "name": "iPad Pro (11-inch)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3639,6 +3779,7 @@
       "id": "iPad8,5",
       "name": "iPad Pro (12.9-inch) (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3655,6 +3796,7 @@
       "id": "iPad8,6",
       "name": "iPad Pro (12.9-inch) (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3671,6 +3813,7 @@
       "id": "iPad8,7",
       "name": "iPad Pro (12.9-inch) (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3687,6 +3830,7 @@
       "id": "iPad8,8",
       "name": "iPad Pro (12.9-inch) (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3703,6 +3847,7 @@
       "id": "iPad8,9",
       "name": "iPad Pro (11-inch) (2nd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3719,6 +3864,7 @@
       "id": "iPad8,10",
       "name": "iPad Pro (11-inch) (2nd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3735,6 +3881,7 @@
       "id": "iPad8,11",
       "name": "iPad Pro (12.9-inch) (4th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3751,6 +3898,7 @@
       "id": "iPad8,12",
       "name": "iPad Pro (12.9-inch) (4th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3767,6 +3915,7 @@
       "id": "iPad13,4",
       "name": "iPad Pro (11-inch) (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3783,6 +3932,7 @@
       "id": "iPad13,5",
       "name": "iPad Pro (11-inch) (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3799,6 +3949,7 @@
       "id": "iPad13,6",
       "name": "iPad Pro (11-inch) (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3815,6 +3966,7 @@
       "id": "iPad13,7",
       "name": "iPad Pro (11-inch) (3rd generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3831,6 +3983,7 @@
       "id": "iPad13,8",
       "name": "iPad Pro (12.9-inch) (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3847,6 +4000,7 @@
       "id": "iPad13,9",
       "name": "iPad Pro (12.9-inch) (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3863,6 +4017,7 @@
       "id": "iPad13,10",
       "name": "iPad Pro (12.9-inch) (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3879,6 +4034,7 @@
       "id": "iPad13,11",
       "name": "iPad Pro (12.9-inch) (5th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3895,6 +4051,7 @@
       "id": "iPad14,3",
       "name": "iPad Pro 11-inch (4th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3911,6 +4068,7 @@
       "id": "iPad14,4",
       "name": "iPad Pro 11-inch (4th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3927,6 +4085,7 @@
       "id": "iPad14,5",
       "name": "iPad Pro 12.9-inch (6th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3943,6 +4102,7 @@
       "id": "iPad14,6",
       "name": "iPad Pro 12.9-inch (6th generation)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -3959,6 +4119,7 @@
       "id": "iPad16,3",
       "name": "iPad Pro 11-inch (M4)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -3975,6 +4136,7 @@
       "id": "iPad16,4",
       "name": "iPad Pro 11-inch (M4)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -3991,6 +4153,7 @@
       "id": "iPad16,5",
       "name": "iPad Pro 13-inch (M4)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -4007,6 +4170,7 @@
       "id": "iPad16,6",
       "name": "iPad Pro 13-inch (M4)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -4023,6 +4187,7 @@
       "id": "iPad17,1",
       "name": "iPad Pro 11-inch (M5)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -4039,6 +4204,7 @@
       "id": "iPad17,2",
       "name": "iPad Pro 11-inch (M5)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -4055,6 +4221,7 @@
       "id": "iPad17,3",
       "name": "iPad Pro 13-inch (M5)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -4071,6 +4238,7 @@
       "id": "iPad17,4",
       "name": "iPad Pro 13-inch (M5)",
       "kind": "pad",
+      "released": true,
       "traits": {
         "oled": true,
         "headphoneJack": false,
@@ -4087,6 +4255,7 @@
       "id": "iPod5,1",
       "name": "iPod touch (5th generation)",
       "kind": "pod",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
@@ -4104,6 +4273,7 @@
       "id": "iPod7,1",
       "name": "iPod touch (6th generation)",
       "kind": "pod",
+      "released": true,
       "traits": {
         "oled": false,
         "headphoneJack": true,
